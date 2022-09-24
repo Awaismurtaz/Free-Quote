@@ -1,0 +1,110 @@
+body{
+  background-color:rgb(30, 181, 13);
+}
+.well{
+      border-radius: 30px;
+    width: 441px;
+    height: 520px;
+    margin-top: 40px;
+    margin-left: -21px;
+    margin-bottom: 10px;
+}
+.well input{
+  height: 30px;
+  margin-top: -4px;
+  width: 190px;
+  margin-left: -10px;
+}
+.well label{
+  font: menu;
+}
+.well h4{
+      margin-top: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-family: ui-sans-serif;
+    font-size: 23px;
+}
+.well p{
+  margin-top: 2px;
+  font: -webkit-control;
+}
+.checkboxes {
+  text-align:left;
+ /* min-width: 15%;
+    padding-block: 10px;*/
+}
+
+.checkboxes input {
+  margin: -5px 0px 0px 0px;
+  min-width: 15%;
+  padding-block: 10px;
+  inline-size: auto;
+  border-color: rgb(69, 172, 214);
+
+}
+ textarea{
+  height: 35px;
+}
+
+.checkboxes label{
+     margin: -10px 15% 1px 10px;
+    min-width: 15%;
+    padding-block: 10px;
+}
+.well button{
+  background-image: linear-gradient(to right, rgba(0,219,14,1)-10%, rgba(81,219,14,0)200%);
+    margin-top: 25px;
+    border-radius: 25px;
+    margin-left: 53px;
+    width: 266px;
+}
+.well a{
+  color:#fff;
+  font-weight: 700;
+  list-style: none;
+}
+h1{
+  color: #fff;
+    font-weight: 600;
+    margin-top: 45px;
+    margin-left: 20px;
+}
+.web{
+  color: #fff;
+  margin-left: 60px;
+  margin-top: -36px;
+}
+ .captial{
+  color:black;
+  width: 36px;
+  height: 36px;
+  border-radius: 18px;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.star i{
+  color: orange;
+}
+.star{
+  margin-left: 62px;
+}
+.star p{
+  margin-left: 89px;
+    margin-top: -20px;
+    color: #fff;
+  }
+  p{
+    margin-left: 90px;
+    color: #fff;
+    font-size: 13px;
+
+  }
+  img{
+       height: 20px;
+    margin-left: 132px;
+    margin-top: -62px;
+}
